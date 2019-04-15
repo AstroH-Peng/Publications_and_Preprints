@@ -24,10 +24,10 @@ Results of the paper demonstrate the potential of using the proposed ML approach
 
 # Publications (peer-reviewed paper)
 
-See Google Scholar profiles: 
+See: 
 
-- [x] [Dr. Xiaoli Bai](https://scholar.google.com/citations?user=tdAeZDIAAAAJ)
-- [x] [Dr. Hao Peng](https://scholar.google.com/citations?user=kOEKfc0AAAAJ)
+- [x] [Dr. Xiaoli Bai's Google Scholar](https://scholar.google.com/citations?user=tdAeZDIAAAAJ)
+- [x] [Dr. Hao Peng's Google Scholar](https://scholar.google.com/citations?user=kOEKfc0AAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Hao_Peng9)
 
 and 
 
@@ -37,4 +37,4 @@ and
 
 # Contacts
 
-See our Email addresses in the publications. 
+Find our Email addresses in the publications. 
